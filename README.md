@@ -1,5 +1,5 @@
 # 🚦 Road Accident Analysis Dashboard  
-- *VIZZ*: [UK Road Accident Tableau](https://public.tableau.com/views/Roadaccidentanalysis_17408342759080/ROADAccident?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- *VIZZ*: [Road Accident Tableau](https://public.tableau.com/views/Roadaccidentanalysis_17408342759080/ROADAccident?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
 
@@ -54,7 +54,7 @@ The dashboard highlights *time-based, location-based, and severity-based trends*
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Screenshot]()  
+![Dashboard Screenshot](https://github.com/HarshitaSachdeva/Road-Accident-Dashboard/blob/main/RoadAccident/Road-Accident.jpeg)  
 
 
 
